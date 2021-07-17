@@ -1,2 +1,2 @@
-# Facial-Expression-Recognition-with-CNN
+# Facial Expression Recognition with CNN
 Project Repository
